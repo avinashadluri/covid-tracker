@@ -1,0 +1,17 @@
+{
+  "short_name": "COVID-19 Tracker",
+  "name": "COVID-19 Tracker",
+  "author": "Avinash Adluri",
+  "homepage_url": "https://avinashadluri.github.io/covid",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
