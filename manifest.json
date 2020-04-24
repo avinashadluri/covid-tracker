@@ -2,7 +2,7 @@
   "short_name": "COVID-19 Tracker",
   "name": "COVID-19 Tracker",
   "author": "Avinash Adluri",
-  "homepage_url": "https://avinashadluri.github.io/covid",
+  "homepage_url": ".",
   "icons": [
     {
       "src": "icon.png",
