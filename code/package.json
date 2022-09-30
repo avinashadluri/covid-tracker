@@ -16,7 +16,7 @@
     "react-ga": "^2.7.0",
     "react-scripts": "3.4.0",
     "react-select": "^3.1.0",
-    "recharts": "^2.0.3"
+    "recharts": "^2.1.14"
   },
   "scripts": {
     "start": "react-scripts start",
